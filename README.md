@@ -40,7 +40,7 @@ I am working towards rounding out my skillset as a full-stack develloper for fut
 
 ## My Statistics
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr3wsky&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redvetures-Movie-Quotes&text_color=000&icon_color=fff" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000" /></a>
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr3wsky&hide=html, jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=6,Redvetures-Movie-Quotes&text_color=000&icon_color=fff" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Dr3wsky&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000" /></a>
 
 ## Getting in touch
 
