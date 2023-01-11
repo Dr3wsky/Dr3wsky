@@ -11,7 +11,7 @@ I am working towards rounding out my skillset as a full-stack develloper for fut
 ## My Tech Stack
 
 <a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </a>
 
 <a href="https://www.mysql.com/">
