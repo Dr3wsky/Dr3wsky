@@ -37,6 +37,7 @@ I am working towards rounding out my skillset as a full-stack develloper for fut
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </a>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr3wsky&lang_count=6&hide=jupyter%20notebook,html&layout=compact)](https://github.com/Dr3wsky/github-readme-stats)
 
 
@@ -49,9 +50,3 @@ I am working towards rounding out my skillset as a full-stack develloper for fut
 <a href="https://www.linkedin.com/in/amcfad/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-/*
-<a href="https://discordapp.com/users/556559991062921217">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-*/
