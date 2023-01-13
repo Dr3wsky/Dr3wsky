@@ -39,9 +39,7 @@ I am working towards rounding out my skillset as a full-stack develloper for fut
 
 ## My Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align "center" src"https://github-readme-stats.vercel.app/api/top-langs/?username=Dr3wsky&layout=compact&theme=transparent&lang_count=6&hide=html,jupyter%20notebook&repo=github-readme-stats"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr3wsky&layout=compact&theme=transparent&lang_count=6&hide=html,jupyter%20notebook&)
 
 ## Getting in touch
 
