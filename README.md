@@ -3,9 +3,7 @@ HI there!
 My name is Andrew McFadden, and I'm from Canada. 
 I'm currently completting my Master's degree in Aerospace Engineering at the University of Calgary while congruently self-learning software devellopment. My M.Sc. research fouses on fluid mechnics modelling of a novel ramjet engine using OpenFOAM, an open-source computational modelling software, to test amd validate new numerical solvers.
 
-In my programming journey I started learning Python as I am interested in it's wide use in data-science and analytics, and am now currently building out my toolkit as a full-stack develloper through the Odin Project's open-source curriculum. I am currenly learning HTML, CSS, and JavaScript to better understand the full devellopment environment and how each language is used on the web today. 
-
-I am working towards rounding out my skillset as a full-stack develloper for future employment in the tech industry, and you can find my most noteworthy projects below in the "Pinned" section.
+In my programming journey I started learning Python as I am interested in it's wide use in data-science and analytics, and am now currently building out my toolkit as a full-stack develloper through the Odin Project's open-source curriculum. I am currenly learning HTML, CSS, and JavaScript to better understand the full devellopment environment and how each language is used on the web today, with the goal of pursuing future employment as a full-stack develloper. 
 
 ## My Tech Stack
 
@@ -49,4 +47,8 @@ I am working towards rounding out my skillset as a full-stack develloper for fut
 
 <a href="https://www.linkedin.com/in/amcfad/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://discordapp.com/users/863154822890651708">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
