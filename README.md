@@ -1,9 +1,10 @@
 ## About Me 
 HI there! 
 My name is Andrew McFadden, and I'm from Canada. 
-I'm currently completting my Master's degree in Aerospace Engineering at the University of Calgary while congruently self-learning software devellopment. My M.Sc. research fouses on fluid mechnics modelling of a novel ramjet engine using OpenFOAM, an open-source computational modelling software, to test amd validate new numerical solvers.
+I'm currently completting my Master's degree in Aerospace Engineering at the University of Calgary while congruently self-learning software devellopment. 
 
-In my programming journey I started learning Python as I am interested in it's wide use in data-science and analytics, and am now currently building out my toolkit as a full-stack develloper through the Odin Project's open-source curriculum. I am currenly learning HTML, CSS, and JavaScript to better understand the full devellopment environment and how each language is used on the web today, with the goal of pursuing future employment as a full-stack develloper. 
+I started using Python for data analytics for my M.Sc research, focusing on fluid mechnics modelling of a novel ramjet engine using OpenFOAM to test and validate numerical solvers. I am now focussing on learning HTML, CSS and JavaScript through the Odin Project's open-source curriculum with the goal of becomming a full-stack develloper. You can find my most noteworthy projects below in the "Pinned" section.
+  
 
 ## My Tech Stack
 
