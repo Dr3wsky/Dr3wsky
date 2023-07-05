@@ -37,7 +37,7 @@ I started using Python for data analytics for my M.Sc research, focusing on flui
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr3wsky&langs_count=5&hide=jupyter%20notebook,html&theme=tokyonight)](https://github.com/Dr3wsky/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr3wsky&langs_count=8&hide=jupyter%20notebook,html&theme=tokyonight)](https://github.com/Dr3wsky/github-readme-stats)
 
 
 ## Getting in touch
